@@ -2,6 +2,8 @@
 title: "Working with Spatial Data in R a08"
 author: Leticia Pereira
 format: html
+project:
+  type: website
 editor: visual
 ---
 
